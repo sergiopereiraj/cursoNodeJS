@@ -7,5 +7,5 @@ if (true){
 console.log(nombre);
 
 //const: no se pueden cambiar
-//var: creada de forma global
+//var: creada de forma global ----No usar----
 //let: puede cambiar valor
